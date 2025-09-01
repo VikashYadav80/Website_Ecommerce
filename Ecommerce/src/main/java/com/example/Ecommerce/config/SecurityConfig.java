@@ -1,6 +1,5 @@
 package com.example.Ecommerce.config;
 
-import com.example.ecommerce.service.CustomUserDetailsService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
